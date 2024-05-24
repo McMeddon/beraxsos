@@ -1,3 +1,3 @@
 # Beraxsos
 
-[PMC on Beraxsos](https://www.planetminecraft.com/project/beraxsos/) 
+[Beraxsos on PMC](https://www.planetminecraft.com/project/beraxsos/) 
